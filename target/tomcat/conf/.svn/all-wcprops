@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/diyAlbum/!svn/ver/3/DIYAlbum/target/tomcat/conf
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/diyAlbum/!svn/ver/3/DIYAlbum/target/tomcat/conf/logging.properties
+END
+tomcat-users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/diyAlbum/!svn/ver/3/DIYAlbum/target/tomcat/conf/tomcat-users.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/diyAlbum/!svn/ver/3/DIYAlbum/target/tomcat/conf/web.xml
+END

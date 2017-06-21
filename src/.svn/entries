@@ -1,0 +1,34 @@
+10
+
+dir
+54
+https://192.168.50.52:8443/svn/diyAlbum/DIYAlbum/src
+https://192.168.50.52:8443/svn/diyAlbum
+
+
+
+2017-06-21T01:21:31.693710Z
+54
+test1
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+54983f1c-c0be-9040-b545-e7532dccd499
+
+main
+dir
+
+test
+dir
+

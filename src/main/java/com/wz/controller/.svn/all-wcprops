@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/diyAlbum/!svn/ver/52/DIYAlbum/src/main/java/com/wz/controller
+END
+TrimController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/diyAlbum/!svn/ver/49/DIYAlbum/src/main/java/com/wz/controller/TrimController.java
+END
+MenuController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/diyAlbum/!svn/ver/37/DIYAlbum/src/main/java/com/wz/controller/MenuController.java
+END
+TrimTypeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/diyAlbum/!svn/ver/49/DIYAlbum/src/main/java/com/wz/controller/TrimTypeController.java
+END
+UserController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/diyAlbum/!svn/ver/36/DIYAlbum/src/main/java/com/wz/controller/UserController.java
+END
+User_imgfileController.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/diyAlbum/!svn/ver/15/DIYAlbum/src/main/java/com/wz/controller/User_imgfileController.java
+END
+ClientController.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/diyAlbum/!svn/ver/48/DIYAlbum/src/main/java/com/wz/controller/ClientController.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/diyAlbum/!svn/ver/3/DIYAlbum/src/main/java/com/wz/controller/package-info.java
+END
+LoginController.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/diyAlbum/!svn/ver/52/DIYAlbum/src/main/java/com/wz/controller/LoginController.java
+END
+TemplateStyleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/diyAlbum/!svn/ver/47/DIYAlbum/src/main/java/com/wz/controller/TemplateStyleController.java
+END
+templateSelectController.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/diyAlbum/!svn/ver/43/DIYAlbum/src/main/java/com/wz/controller/templateSelectController.java
+END
+PersonController.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/diyAlbum/!svn/ver/44/DIYAlbum/src/main/java/com/wz/controller/PersonController.java
+END
